@@ -1,2 +1,1 @@
-declare const oneDay: () => number;
-export default oneDay;
+export declare const oneDay: () => number;
