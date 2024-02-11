@@ -1,5 +1,5 @@
 {
-  "name": "day",
+  "name": "@xkeshav/day",
   "version": "1.0.0",
   "description": "get one day in milliseconds",
   "main": "index.js",
