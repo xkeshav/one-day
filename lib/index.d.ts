@@ -1,1 +1,1 @@
-export declare const oneDay: () => number;
+export declare const oneDay: number;
