@@ -13,7 +13,7 @@ total milliseconds in a day = **5<sup>5</sup> \* 4<sup>4</sup> \* 3<sup>3</sup> 
 ## Usage
 
 ```tsx
-import { oneDay } from "xkeshav/day";
+import { oneDay } from "@xkeshav/day";
 
 console.log({ oneDay }); // return 86400000
 ```
