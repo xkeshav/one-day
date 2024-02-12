@@ -1,6 +1,6 @@
 {
   "name": "@xkeshav/day",
-  "version": "1.2.6",
+  "version": "1.3.0",
   "description": "A npm package which return milliseconds in one day.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
