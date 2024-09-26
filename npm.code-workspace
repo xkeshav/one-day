@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.readonlyInclude": {
+			"node_modules/**": true
+		},
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#4ee45c",
+			"activityBar.background": "#4ee45c",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#8075ea",
+			"activityBarBadge.foreground": "#15202b",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#4ee45c",
+			"statusBar.background": "#22dd33",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#1bb129",
+			"statusBarItem.remoteBackground": "#22dd33",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#22dd33",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#22dd3399",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#22dd33",
+		"cSpell.words": [
+			"Keshav",
+			"Mohta"
+		]
+	}
+}
