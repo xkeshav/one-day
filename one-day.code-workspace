@@ -18,6 +18,30 @@
     "files.readonlyExclude": {
       "node_modules/**": true,
     },
-    "cSpell.words": ["attw"],
+    "cSpell.words": [
+      "attw"
+    ],
+    "workbench.colorCustomizations": {
+      "activityBar.activeBackground": "#23d32a",
+      "activityBar.background": "#23d32a",
+      "activityBar.foreground": "#15202b",
+      "activityBar.inactiveForeground": "#15202b99",
+      "activityBarBadge.background": "#605be4",
+      "activityBarBadge.foreground": "#e7e7e7",
+      "commandCenter.border": "#e7e7e799",
+      "sash.hoverBorder": "#23d32a",
+      "sideBar.border": "#23d32a",
+      "statusBar.background": "#1ca721",
+      "statusBar.foreground": "#e7e7e7",
+      "statusBarItem.hoverBackground": "#23d32a",
+      "statusBarItem.remoteBackground": "#1ca721",
+      "statusBarItem.remoteForeground": "#e7e7e7",
+      "tab.activeBorder": "#23d32a",
+      "titleBar.activeBackground": "#1ca721",
+      "titleBar.activeForeground": "#e7e7e7",
+      "titleBar.inactiveBackground": "#1ca72199",
+      "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#1ca721",
   },
 }

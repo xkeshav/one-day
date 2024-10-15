@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.15.4",
+    "@xkeshav/gh-repo-care": "^2.2.8",
     "prettier": "^3.3.3"
   }
 }
